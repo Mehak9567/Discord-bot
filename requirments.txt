@@ -1,11 +1,13 @@
 📌 Requirements
 
-See requirements.txt
+# See requirements.txt
 
 📜 License
 
-This project is open-source. Feel free to use and modify it.
+# This project is open-source. Feel free to use and modify it.
 
  discord.py
- requests
+ import requests
+ import json
+
 
